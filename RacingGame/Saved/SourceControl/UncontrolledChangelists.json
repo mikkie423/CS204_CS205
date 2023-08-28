@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/VehicleTemplate/Blueprints/CheckpointBP.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/VehicleTemplate/Blueprints/VehiclePlayerController.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/GQ/PI5W2TEA7XI4S5C0A3ECHX.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/TL/VTYFDVBS1ZBXEJZV767IR9.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/0/SK/PK8R90B9Q5YD07ZEF6CSTM.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/KN/4CRJPBRYMKXU4P4H20DRKR.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/UC/9MEVM6FZMDODLK3WOKWGSI.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/5W/DZU1M6JD10FX7FMOKB2N5R.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/NI/MUHMIJ2QCCKL50PNURC4FE.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/RT/81FQ2AOK4GL7RP7E84VHRY.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/UG/WXLYUWCPOXCQ670H3ZPYD0.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/F0/GTK83XWBQFCSID5XO6WDIM.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/VehicleTemplate/Blueprints/VehicleUI.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/VehicleTemplate/Blueprints/GameOverWGT.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/VehicleTemplate/Blueprints/SpeedBoostBP.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/6V/Y43952I6PADWYXPC2BKZKZ.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/Z2/6IVJFKS508ASO7TCEIN26K.uasset",
+				"C:/Users/mikki/Documents/Unreal Projects/RacingGame/Content/VehicleTemplate/Blueprints/WinGameWGT.uasset"
+			]
+		}
+	]
+}
